@@ -20,8 +20,8 @@
 		"list.activeSelectionBackground": "#29303b",
 		"list.hoverBackground": "#1d2229",
 		"list.inactiveSelectionBackground": "#20272f",
-		"quickInput.background": "#1b2128",
-		"quickInputList.focusBackground": "#191f26",
+		"quickInput.background": "#15191e",
+		"quickInputList.focusBackground": "#1d2229",
 		//"scrollbar.shadow": "#171d23",
 		"statusBar.background": "#adeb42",
 		"statusBar.foreground": "#000000",
@@ -134,7 +134,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -160,7 +160,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
