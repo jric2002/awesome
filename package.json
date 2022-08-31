@@ -1,0 +1,35 @@
+{
+    "name": "awesome",
+    "displayName": "Awesome",
+    "description": "Theme for Visual Studio Code",
+    "version": "1.0.0",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#11151b",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": ["awesome", "color-theme", "theme"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jric2002/awesome.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jric2002/awesome/issues"
+    },
+    "license": "GPL-3.0",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Awesome - Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Awesome - Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
